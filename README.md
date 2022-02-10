@@ -1,6 +1,6 @@
 ## Portfólio para iniciantes da Origmid
 
-Portfólio desenvolvido no curso de UI Design para Iniciantes e HTML e CSS para iniciantes da Origamid, com o intuito de aprender conceitos de UI Design e posicionamento com Grid e Flex, usando como exemplo um portfólio simples.
+Portfólio desenvolvido no curso de UI Design para Iniciantes e HTML e CSS para iniciantes da Origamid, com o intuito de aprender conceitos de UI Design e posicionamento com Grid e Flex layout, usando como exemplo um portfólio simples.
 
 ## Clonando o comando
 
